@@ -1,0 +1,6 @@
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\Menu\ADOnetHomeWork1\ADOnetHomeWork1\bin\Debug\ADOnetHomeWork1.exe.config
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\Menu\ADOnetHomeWork1\ADOnetHomeWork1\bin\Debug\ADOnetHomeWork1.exe
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\Menu\ADOnetHomeWork1\ADOnetHomeWork1\bin\Debug\ADOnetHomeWork1.pdb
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\Menu\ADOnetHomeWork1\ADOnetHomeWork1\obj\Debug\ADOnetHomeWork1.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\Menu\ADOnetHomeWork1\ADOnetHomeWork1\obj\Debug\ADOnetHomeWork1.exe
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\Menu\ADOnetHomeWork1\ADOnetHomeWork1\obj\Debug\ADOnetHomeWork1.pdb
